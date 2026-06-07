@@ -8,6 +8,7 @@ Vallejos, O. A. (2026). Formal Derivation: Projection of the Vacuum Symmetry Oh 
 
 
 # v II
+
 mission_complete_v5.py 
 
 C_j.py
@@ -21,6 +22,7 @@ ENGINE_MOON_v2.py
 ENGINE_TUG_v6.py
 
 kernel:
+
 ●lib.rs (astro_tfc)
 
 ●constants.rs
