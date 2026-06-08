@@ -1,0 +1,3 @@
+>> cargo clean
+>> maturin develop --release
+>> pip install . --break-system-packages
