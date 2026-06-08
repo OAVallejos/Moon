@@ -1,0 +1,11 @@
+# pyproject.toml
+# Define el sistema de construcción (build system)
+[build-system]
+requires = ["maturin>=1.0,<2.0"]
+build-backend = "maturin"
+
+# Define el proyecto (metadata mínima)
+[project]
+name = "astro_tfc"
+version = "1.0.0"
+description = "Fast cosmology calculations using Rust and PyO3"
