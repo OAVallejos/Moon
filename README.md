@@ -56,5 +56,17 @@ COMPAREx4.pdf
 
 posterFaseC.pdf
 
+DWG-ASSY-00.pdf
+
+DWG-DSN-00.pdf
+
+DWG-MIR-01.pdf
+
+DWG-TUGBIG-00.pdf
+
+L-RAIL_128.pdf
+
+WORKFLOW.pdf
+
 🚀 kernel2 (BIG)
 
