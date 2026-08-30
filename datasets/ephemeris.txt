@@ -1,0 +1,15 @@
+de440.bsp     
+naif0012.tls
+gm_de440.tpc  
+pck00010.tpc
+
+>> apt-get update && apt-get install -y build-essential git wget
+>> micromamba install -c conda-forge spiceypy cspice -y
+
+>> python -c "import spiceypy as spice; print('CSPICE Version:', spice.tkvrsn('TOOLKIT'))"
+# CSPICE Version: CSPICE_N0067 
+
+# Plan B 
+wget -c https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de440.bsp
+wget -c https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/naif0012.tls
+wget -c https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00010.tpc
