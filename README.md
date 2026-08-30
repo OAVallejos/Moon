@@ -74,5 +74,27 @@ L-RAIL_128.pdf
 
 WORKFLOW.pdf
 
+
 🚀 kernel2 (BIG)
+
+test_kernels.py
+
+test_high_fidelity.py
+
+test_spice_simple.py
+
+test_low_thrust_only.py
+
+test_quema_2_etapas.py
+
+test_high_fidelity_v4.py
+
+test_strategy_validation.py
+
+kernel2/ephemeris/*.rs
+
+datasets/ephemeris.txt installation of
+SpiceyPy Y CSPICE C-library more datasets.
+
+
 
