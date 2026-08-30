@@ -75,7 +75,7 @@ L-RAIL_128.pdf
 WORKFLOW.pdf
 
 
-🚀 kernel2 (BIG)
+🚀 kernel2 (BIG) TIO/TUG-BIG validation:
 
 test_kernels.py
 
