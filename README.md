@@ -48,6 +48,9 @@ kernel:
 Vallejos, O. A. (2026). Determination of the Optimal Jacobi Constant for Earth-Moon Transfers via L1 using the Theory of Functional Connections. (II). Zenodo. https://doi.org/10.5281/zenodo.20584996
 
 
+
+# 🚀 v III
+
 Vallejos, O. A. (2026). Formal Derivation: Projection of the Vacuum Symmetry Oh onto the Interferometric (u, v) Plane. (Version III). Zenodo. https://doi.org/10.5281/zenodo.22103744
 
 
