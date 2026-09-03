@@ -49,12 +49,13 @@ Vallejos, O. A. (2026). Determination of the Optimal Jacobi Constant for Earth-M
 
 
 
-# 🚀 v III
+# 📚 v III
 
 Vallejos, O. A. (2026). Formal Derivation: Projection of the Vacuum Symmetry Oh onto the Interferometric (u, v) Plane. (Version III). Zenodo. https://doi.org/10.5281/zenodo.22103744
 
 
 ☄️ PDF Add-on
+
 
 C_j.pdf
 
@@ -75,7 +76,7 @@ L-RAIL_128.pdf
 WORKFLOW.pdf
 
 
-🚀 kernel2 (BIG) TIO/TUG-BIG validation:
+# 🚀 kernel2 (BIG) TIO/TUG-BIG validation:
 
 test_kernels.py
 
